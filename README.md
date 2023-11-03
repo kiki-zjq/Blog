@@ -8,6 +8,7 @@
 ## Node.js 系列
 
 * [Node.js 垃圾回收](https://github.com/kiki-zjq/Blog/issues/3)
+* [Node.js 事件循环](https://github.com/kiki-zjq/Blog/issues/4)
 
 ## 勘误及提问
 
