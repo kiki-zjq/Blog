@@ -11,6 +11,12 @@
 * [Node.js 垃圾回收](https://github.com/kiki-zjq/Blog/issues/3)
 * [Node.js 事件循环](https://github.com/kiki-zjq/Blog/issues/4)
 
+
+## 公开课 Project 系列
+
+* [CMU 15-213 Malloc Lab](https://github.com/kiki-zjq/Blog/issues/6)
+
+
 ## 勘误及提问
 
 如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
