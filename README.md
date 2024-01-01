@@ -15,6 +15,7 @@
 
 ## 公开课 Project 系列
 
+* [CMU 15-213 C Lab](https://github.com/kiki-zjq/Blog/issues/8)
 * CMU 15-213 Data Lab
 * CMU 15-213 Cache Lab
 * [CMU 15-213 Malloc Lab](https://github.com/kiki-zjq/Blog/issues/6)
