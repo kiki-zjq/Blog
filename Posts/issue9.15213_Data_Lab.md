@@ -352,3 +352,24 @@ unsigned floatScale1d4(unsigned uf) {
 ```
 
 ### `floatNegate`
+
+
+```c
+/*
+ * floatNegate - Return bit-level equivalent of expression -f for
+ *   floating point argument f.
+ *   Both the argument and result are passed as unsigned int's, but
+ *   they are to be interpreted as the bit-level representations of
+ *   single-precision floating point values.
+ *   When argument is NaN, return argument.
+ *   Legal ops: Any integer/unsigned operations incl. ||, &&. also if, while
+ *   Max ops: 10
+ *   Rating: 2
+ */
+unsigned floatNegate(unsigned uf) {
+    if ((uf & 0x7FFFFFFF) > 0x7F800000) {
+        return uf;
+    }
+    return uf ^ 0x80000000;
+}
+```
