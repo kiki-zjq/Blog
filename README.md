@@ -23,6 +23,7 @@
 * [CMU 15-213 Attack Lab](https://github.com/kiki-zjq/Blog/issues/11)
 * [CMU 15-213 Cache Lab](https://github.com/kiki-zjq/Blog/issues/12)
 * [CMU 15-213 Malloc Lab](https://github.com/kiki-zjq/Blog/issues/6)
+* [CMU 15-213 Shell Lab](https://github.com/kiki-zjq/Blog/issues/15)
 
 
 ## 勘误及提问
